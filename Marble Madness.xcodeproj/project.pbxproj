@@ -17,7 +17,6 @@
 		91D6F4C0209BC1BE002229FB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 91D6F4BE209BC1BE002229FB /* LaunchScreen.storyboard */; };
 		91D6F4CB209BC1BE002229FB /* Marble_MadnessTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91D6F4CA209BC1BE002229FB /* Marble_MadnessTests.swift */; };
 		91D6F4D6209BC1BE002229FB /* Marble_MadnessUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91D6F4D5209BC1BE002229FB /* Marble_MadnessUITests.swift */; };
-		91E3DC36209BE4A6007AD4D9 /* 20-bullet-shot-hole-png-image-thumb.png in Resources */ = {isa = PBXBuildFile; fileRef = 91E3DC35209BE4A6007AD4D9 /* 20-bullet-shot-hole-png-image-thumb.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -54,7 +53,6 @@
 		91D6F4D1209BC1BE002229FB /* Marble MadnessUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Marble MadnessUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		91D6F4D5209BC1BE002229FB /* Marble_MadnessUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Marble_MadnessUITests.swift; sourceTree = "<group>"; };
 		91D6F4D7209BC1BE002229FB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		91E3DC35209BE4A6007AD4D9 /* 20-bullet-shot-hole-png-image-thumb.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "20-bullet-shot-hole-png-image-thumb.png"; path = "../../../../../20-bullet-shot-hole-png-image-thumb.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,7 +103,6 @@
 		91D6F4AE209BC1BE002229FB /* Marble Madness */ = {
 			isa = PBXGroup;
 			children = (
-				91E3DC35209BE4A6007AD4D9 /* 20-bullet-shot-hole-png-image-thumb.png */,
 				91D6F4AF209BC1BE002229FB /* AppDelegate.swift */,
 				91D6F4B1209BC1BE002229FB /* GameScene.sks */,
 				91D6F4B3209BC1BE002229FB /* Actions.sks */,
@@ -248,7 +245,6 @@
 				91D6F4B2209BC1BE002229FB /* GameScene.sks in Resources */,
 				91D6F4BD209BC1BE002229FB /* Assets.xcassets in Resources */,
 				91D6F4C0209BC1BE002229FB /* LaunchScreen.storyboard in Resources */,
-				91E3DC36209BE4A6007AD4D9 /* 20-bullet-shot-hole-png-image-thumb.png in Resources */,
 				91D6F4B4209BC1BE002229FB /* Actions.sks in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -443,10 +439,10 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = X539AG7M54;
+				DEVELOPMENT_TEAM = 3ZNJ79JJBC;
 				INFOPLIST_FILE = "Marble Madness/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.sadieflick.Marble-Madness";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.sadieflick.Marble-Madness222";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -458,10 +454,10 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = X539AG7M54;
+				DEVELOPMENT_TEAM = 3ZNJ79JJBC;
 				INFOPLIST_FILE = "Marble Madness/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.sadieflick.Marble-Madness";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.sadieflick.Marble-Madness222";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
